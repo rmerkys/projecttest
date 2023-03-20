@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rmerkys/projecttest.git",
   "author": "Rokas Merkys <spamerkys@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
