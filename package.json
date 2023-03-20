@@ -1,0 +1,8 @@
+{
+  "name": "projecttest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rmerkys/projecttest.git",
+  "author": "Rokas Merkys <spamerkys@gmail.com>",
+  "license": "MIT"
+}
