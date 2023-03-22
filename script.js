@@ -2,4 +2,9 @@ function sum(a, b) {
     return a + b
 }
 
-module.exports = sum;
+
+function isGreaterThan(a, b) {
+    return a > b;
+}
+
+module.exports = {sum, isGreaterThan}
